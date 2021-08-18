@@ -3,7 +3,7 @@ age = 49
 
 
 def print_name_age():
-    name_and_age = 'Your name is '+name+'and your age is '+str(age)
+    name_and_age = 'Your name is '+name+' and your age is '+str(age)
     print(name_and_age)
 
 
